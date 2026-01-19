@@ -1,1 +1,0 @@
-Esto es un readme muy pobre, pero es un trabajo honesto.
