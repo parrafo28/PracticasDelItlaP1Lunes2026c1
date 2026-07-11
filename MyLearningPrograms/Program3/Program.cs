@@ -45,12 +45,7 @@
 
 
     typedOperation = Convert.ToInt32(Console.ReadLine());
-
-
-
-
-
-
+     
 
     switch (typedOperation)
     {
